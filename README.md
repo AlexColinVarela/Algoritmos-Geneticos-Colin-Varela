@@ -16,4 +16,4 @@ Para correr desde esta carpeta correr :
 
 ./release/plot ./plot-sdl-test/opensans.ttf
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~# Algoritmos-Geneticos
