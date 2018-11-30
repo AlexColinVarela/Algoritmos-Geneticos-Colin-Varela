@@ -2,7 +2,7 @@ Alumno : Alejandro Colín Varela
 Grupo: 3CM5
 
 Algoritmos Genéticos
-Practica 3
+Practica 4
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
