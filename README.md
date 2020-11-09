@@ -1,4 +1,4 @@
-Alumno : Alejandro Colín Varela
+Alumno : ACV
 Grupo: 3CM5
 
 Algoritmos Genéticos
